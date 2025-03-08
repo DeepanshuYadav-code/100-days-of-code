@@ -22,7 +22,7 @@ What's in for you?
 ## Progress tracking Below
 
 ### Day 1: 8th march, 2025
-#### Learnings
--
-#### Thoughts
+- JavaScript Problems and NodeJS
+
+### Day 2: 9th march, 2025
 - 
