@@ -25,4 +25,8 @@ What's in for you?
 - JavaScript Problems and NodeJS
 
 ### Day 2: 9th march, 2025
-- 
+- ExpressJS, HTTP and Postman
+- JavaScript Problems
+
+### Day 3: 10th march, 2025
+-
