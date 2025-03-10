@@ -29,4 +29,6 @@ What's in for you?
 - JavaScript Problems
 
 ### Day 3: 10th march, 2025
--
+- Basics of Solana Development
+- JavaScript Problems
+- Frontend Project
